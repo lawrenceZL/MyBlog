@@ -3,9 +3,9 @@
 		<el-row>
 			<el-col :span="10">
 				<div>
-					© 2018 GitHub-Laziji&emsp;&emsp;
-					<a href="https://github.com/GitHub-Laziji" target="_blank">Profile</a>&emsp;&emsp;
-					<a href="https://github.com/GitHub-Laziji/vblog" target="_blank">VBlog</a>
+					© 2019 LawrenceZL&emsp;&emsp;
+					<a href="https://github.com/lawrenceZL" target="_blank">github地址</a>&emsp;&emsp;
+					<a href="https://github.com/GitHub-Laziji/vblog" target="_blank">改编源码</a>
 				</div>
 			</el-col>
 			<el-col :span="4">
@@ -18,21 +18,20 @@
 					<a href="https://developer.github.com" target="_blank">GitHub-API</a>&emsp;&emsp;
 					<a href="https://cn.vuejs.org/" target="_blank">Vue.js</a>&emsp;&emsp;
 					<a href="http://element.eleme.io/" target="_blank">Element</a>
-
 				</div>
 			</el-col>
 		</el-row>
 	</div>
 </template>
 <script>
-	export default {
-		data() {
-			return {
+export default {
+  data () {
+    return {
 
-			}
-		},
-		methods: {
+    }
+  },
+  methods: {
 
-		}
-	}
+  }
+}
 </script>
